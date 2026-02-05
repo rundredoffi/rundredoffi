@@ -10,5 +10,5 @@
   </a>
 </p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rundredoffi/rundredoffi/08c412e8eb4444f9cd69a4dd85543efb7fae7da8/game.gif" width="100%" alt="Mon Space Shooter stylé" />
+  <img src="https://raw.githubusercontent.com/rundredoffi/rundredoffi/refs/heads/main/game.gif" width="100%" alt="Mon Space Shooter stylé" />
 </div>
